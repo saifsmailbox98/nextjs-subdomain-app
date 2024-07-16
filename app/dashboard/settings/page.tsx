@@ -1,8 +1,11 @@
+import Image from "next/image";
+
 export default async function SettingsPage() {
 
     return (
-        <div className="flex items-center justify-center flex-grow">
+        <>
             <h1>Hello from settings!</h1>
-        </div>
+            <Image src="/logo.png" alt="logo" width={100} height={100}/>
+        </>
     );
 }
