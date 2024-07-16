@@ -1,4 +1,4 @@
-# Domain
+# Domains
 
 1. Main domain: `localhost:3000` or `acme.com`
 2. Dashboard domain: `app.localhost:3000` or `app.acme.com`
